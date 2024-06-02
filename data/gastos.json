@@ -1,0 +1,38 @@
+[
+  {
+    "id": "73f21307-1192-4c3d-9646-a08842b79e93",
+    "gastos_id": "5099333d-4776-4e12-bb7c-5cc06fd4ce04",
+    "user_id": "6248b684-90e0-4462-8bb4-98e23b48fc93",
+    "cantidad": "32",
+    "dia": 1,
+    "descripcion": "GASTO 1 - CENA",
+    "pagado": [
+      {
+        "id": "1f14cc4b-2c6b-4597-8dd6-33e61b15e204",
+        "pagado": true
+      },
+      {
+        "id": "6248b684-90e0-4462-8bb4-98e23b48fc93",
+        "pagado": true
+      }
+    ]
+  },
+  {
+    "id": "cd2fb3f5-f024-444d-8bec-825d8af91721",
+    "gastos_id": "5099333d-4776-4e12-bb7c-5cc06fd4ce04",
+    "user_id": "1f14cc4b-2c6b-4597-8dd6-33e61b15e204",
+    "cantidad": "25",
+    "dia": 1,
+    "descripcion": "GASTO 2 - COMIDA",
+    "pagado": [
+      {
+        "id": "1f14cc4b-2c6b-4597-8dd6-33e61b15e204",
+        "pagado": true
+      },
+      {
+        "id": "6248b684-90e0-4462-8bb4-98e23b48fc93",
+        "pagado": false
+      }
+    ]
+  }
+]

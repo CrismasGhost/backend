@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1f14cc4b-2c6b-4597-8dd6-33e61b15e204",
+    "nombre": "Usuario 1",
+    "apellido": "Prueba",
+    "correo": "user1@prueba.com",
+    "dni": "1234567H",
+    "creada": "2024-06-02T15:29:21.238Z",
+    "actualizada": "2024-06-02T15:29:21.238Z",
+    "token": "zEQESbRZwohfLlDc5nfB3yOElm3IHlMuWG1bXzJ1Of41rzBZmihQWWZM44sEgw0y",
+    "password": "$2b$10$YuIwS1qyiY6Df716QlNpaugD1DVqHaNeN7sPn7QrWqX3fSNshDgs."
+  },
+  {
+    "id": "6248b684-90e0-4462-8bb4-98e23b48fc93",
+    "nombre": "Usuario 2",
+    "apellido": "Prueba",
+    "correo": "user2@prueba.com",
+    "dni": "1234566G",
+    "creada": "2024-06-02T15:30:31.877Z",
+    "actualizada": "2024-06-02T15:30:31.877Z",
+    "token": "BmAdbzgAYngDo9B5lS3daqbGEe2ylsfmmyBW7WgTQIxssRGWmXHdVr5e15jNrmlc",
+    "password": "$2b$10$VdA2u9/JGZnOFUumzrau8.QCU7nXsmuId7TVDhnl/IuYuCKttxRjG"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "a4597c24-db95-44d8-ae9a-59d6fa90ed04",
+    "nombre": "GRUPO DE PRUEBA MARIO",
+    "password": "Grupo1Mario",
+    "duracion": "10/06/2024 - 13/06/2024",
+    "token": "izy2FotnPhA9hszYCu6olRs21IdS5Bsip9c64SkjBFoCmKQuCrGGYC97nAFRdYee5nJNPe0XiRpKh5AB6JCylqpEEdpKjCXJDcRILq",
+    "usuarios": [
+      {
+        "id": "1f14cc4b-2c6b-4597-8dd6-33e61b15e204",
+        "owner": false
+      },
+      {
+        "id": "6248b684-90e0-4462-8bb4-98e23b48fc93",
+        "owner": true
+      }
+    ],
+    "gastos_id": "5099333d-4776-4e12-bb7c-5cc06fd4ce04"
+  }
+]
